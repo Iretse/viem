@@ -1,5 +1,11 @@
 # viem
 
+## 2.31.4
+
+### Patch Changes
+
+- [#3744](https://github.com/wevm/viem/pull/3744) [`4842ee5b46f2b1d7f130a879b7267883365f2d26`](https://github.com/wevm/viem/commit/4842ee5b46f2b1d7f130a879b7267883365f2d26) Thanks [@PaulRBerg](https://github.com/PaulRBerg)! - Added multicall3 to Chiliz and Morph.
+
 ## 2.31.3
 
 ### Patch Changes
